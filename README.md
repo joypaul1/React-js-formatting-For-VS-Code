@@ -1,6 +1,6 @@
-## React-js-formatting-For-VS-Code 😀 
+## + React-js-formatting-For-VS-Code 😀 
 
-```
+```json
 {
   "editor.wordWrap": "on",
   "editor.defaultFormatter": "esbenp.prettier-vscode", // for formatting
